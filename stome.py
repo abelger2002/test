@@ -55,7 +55,7 @@ countries_and_city = (
     "Toronto", "Santiago", "Riyadh", "Singapore", "St. Petersburg",
     "Surat", "Madrid", "Suzhou", "Pune", "Harbin",
     "Houston", "Dallas", "Toronto", "Miami", "Belo Horizonte",
-    "Khartoum", "Johannesburg", "Berlin", "Baghdad", "Dar es Salaam",
+    "Khartoum", "Johannesburg", "Berlin", "Baghdad",
     "Sydney", "San Francisco", "Melbourne", "Barcelona", "Philadelphia",
     "Montreal", "Nairobi", "Athens", "Riyadh", "Dubai",
     "Rome", "Birmingham", "Jeddah", "Algiers", "Kabul",
